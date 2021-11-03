@@ -1,0 +1,25 @@
+CERINTE PENTRU PUNCTAJ MAXIM:
+
+ 1.  OK   adaugare pentru fiecare telefon urmatoarele atribute (cu valorile corespunzatoare):     
+	- imagine (link, iar in HTML folositi link-ul pentru a afisa imaginea)
+	- anAparitie
+	- dataAdaugare
+2.     OK   adaugare butoane functionale de sortare dupa:
+	- anAparitie
+	- dataAdaugare
+3.     OK  afisati produsele sub forma de lista (sa aiba o bulinuta in fata)
+	HINT: ul, li
+4.        stilizati pagina (minim sa aiba un container de flexbox/grid + alte 3 elemente de CSS(ex: culoare, font, background..))
+
+   // sfat fff util: incercati sa le faceti pe primele 4 pana la examen ;)
+
+5.  OK   adaugati un buton de filtrare (ex: pret > 1000), care cand e apasat filtreaza produsele, afisandu-le doar pe cele
+cu pretul mai mare de 1000 (de exemplu)
+   HINT: asemanator cu sortarea, doar ca in loc sa se foloseasca functia sort, se foloseste functia filter
+
+BONUS:
+6.  OK   Adaugati pentru fiecare produs un buton de stergere
+
+MAJOR HINT:
+Atentie la ordinea fisierelor JS pe care le-ati adauga in HTML. Daca folositi o functie incarcata ulterior,
+puneti evenimentul de load!
